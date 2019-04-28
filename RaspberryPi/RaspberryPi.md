@@ -16,15 +16,25 @@ Danas (2019) aktuelna verzija, Rasperija objavljena pre oko 2 godine, poseduje s
 *	Dimensions: 82mm x 56mm x 19.5mm, 50g
 U poređenju sa prethodnim verzijama Raspberry Pi 3B+ verzija poseduje:
 * Brži  quadcore 1.4GHz CPU,
+
 ![Raspberi procesor](images/Image2.jpg)
+
 * 	Faster Ethernet (Gigabit via USB); novi  USB Ethernet kontroler nudi  gigabitnu konekciju, sa  teoretski  maksimalnim protokom od  300Mb/s, koristeći jedan  USB kanal.
+
 ![Raspberi ethernet](images/Image3.jpg)
+
 * 	Dual-band 2.4GHz and 5GHz wireless LAN (Raspbian OS moramo updejtovati za korišćenje  radio- čipa)
+
 ![Raspberi radio čip](images/Image4.jpg)
+
 * Power over Ethernet (PoE) ready dodatni PoE modul može biti dostupan posebno
+
 ![Raspberi Power over Ethernet](images/Image5.jpg)
+
 * •	Naposletku, pametno integrisano  kolo za upravljanja energijom (PMIC) zamenjuje diskretne komponente i osigurava stabilno napajanje.
+
 ![Raspberi PMIC](images/Image6.jpg)
+
 ## O Rasperry Pi fondaciji
  Kako se na svom [sajtu predstavlja]((https://www.raspberrypi.org/about/)), Raspberi pi fondacija  „je dobrotvorna organizacija utemeljena u Velikoj Britaniji koja radi na tome da snagu računarstva i digitalno stvaranje stavi u ruke ljudi širom sveta. To činimo tako da više ljudi može iskoristiti snagu računarstva i digitalnih tehnologija za rad, rešiti probleme koji su im važni i kreativno se izraziti“.
  Dalje, kažu:
