@@ -1,8 +1,10 @@
 # Raspberry Pi mini računar
-Raspberry Pi je mali, mini računar (veličine kreditne kartice) razvijen od strane [Raspberry Pi Fondacije](https://www.raspberrypi.org), britanske dobrotvorne organizacije, s namerom da učenicima i studentima ponudi jeftine računare i besplatan softver. Krajnji cilj je podsticanje obrazovanja na području kompjuterskih nauka. Delimo mišljenje da je Raspberi alat koji to omogućava. 
+Raspberry Pi je mali, mini računar (veličine kreditne kartice) razvijen od strane [Raspberry Pi Fondacije](https://www.raspberrypi.org), s namerom da učenicima i studentima ponudi jeftine računare i besplatan softver. Krajnji cilj je podsticanje obrazovanja na području kompjuterskih nauka. Delimo mišljenje da je Raspberi alat koji to omogućava. 
 ## Hardver
 Na štampanoj pločici (PCB) nalaze se ulazni i izlazni konektori, kao i sam  hardver  računara. U početku, Fondacija je prodavala “golu” PCB . Konačna verzija će biti edukativno izdanje s primerima, dokumentacijom i unapred učitanim obrazovnim softverom. Na strani softvera, trenutno postoje tri operaciona sistema utemeljena na Linuxu koju podržava Raspberry Pi.
+
 ![Raspberi](images/Image1.png)
+
 U prvoj proizvodnoj seriji proizvedeno je 10.000 komada B modela i sve su rasprodane u roku od nekoliko sati. Model B je verzija od 35 USD s najviše mogućnosti povezivanja, a to je model za koji je većina entuzijasta zainteresovana. Model A je bez Ethernet-a i sa jednim USB portom, za 25 USD. Dalje, završno edukaciono izdanje Raspberry Pi računara (s kućištem i dodacima) bilo je predviđeno  za leto 2012.
 Danas (2019) aktuelna verzija, Rasperija objavljena pre oko 2 godine, poseduje sledeće hardverske komponente:
 * 	Socket: Broadcom BCM2837B0 quad-core A53 (ARMv8) 64-bit @ 1.4GHz
@@ -31,7 +33,7 @@ U poređenju sa prethodnim verzijama Raspberry Pi 3B+ verzija poseduje:
 
 ![Raspberi Power over Ethernet](images/Image5.jpg)
 
-* •	Naposletku, pametno integrisano  kolo za upravljanja energijom (PMIC) zamenjuje diskretne komponente i osigurava stabilno napajanje.
+* 	Naposletku, pametno integrisano  kolo za upravljanje napajanjem (PMIC) zamenjuje diskretne komponente i osigurava stabilno napajanje.
 
 ![Raspberi PMIC](images/Image6.jpg)
 
@@ -54,5 +56,11 @@ Do kraja  2018-e godine je, po Raspberry pi Fondaciji:
 *	50.000 nastavnika i volontera učestvovalo  je u online  kursevima.
 *	Više od milion projekata završeno je na [web strani projekata](https://projects.raspberrypi.org/en/).
 
-Većina  Rasperry Pi računara proizvodi se u Sony fabrici u  Pencoed-u, u  Velsu, u Velikoj Britaniji.  Određen broj se proizvodi u Kini i Japanu.
+Većina  Raspberry Pi računara proizvodi se u Sony fabrici u  Pencoed-u, u  Velsu, u Velikoj Britaniji.  Određen broj se proizvodi u Kini i Japanu.
 
+# Zaključak
+Pored toga što je Rasberry zanimljiv za hobi projekte, mislim da može bude odličan prvi računar za naše školarce.
+Ideja je da se što širem broju mladih omogući pristup informacionih tehnologija. Uz omasovljenje platforme i softver prilagođen učenju efekat može da bude ogroman. Zamislite generaciju koja bi učila o razvoju softvera tako što razvija softversko rešenje koje *gejmifikuje* učenje geografije, koje bi koristili drugi učenici na toj istoj platformi. Rad u timu, na istom projektu duži vremenski period, možda i razvoj proizvoda za starije srednjoškolce i studente, to je nešto što nemamo u našem obrazovanju.
+   Uređaj je po ceni dostupan. Uz dobre projekte možemo da  našoj deci predstavimo informacione tehnologije i programiranje na zanimljiv način.
+   
+    Očekujte nove projekte.
