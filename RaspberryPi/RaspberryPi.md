@@ -3,10 +3,10 @@ Raspberry Pi je mali, mini računar (veličine kreditne kartice) razvijen od str
 ## Hardver
 Na štampanoj pločici (PCB) nalaze se ulazni i izlazni konektori, kao i sam  hardver  računara. U početku, Fondacija je prodavala “golu” PCB . Konačna verzija će biti edukativno izdanje s primerima, dokumentacijom i unapred učitanim obrazovnim softverom. Na strani softvera, trenutno postoje tri operaciona sistema utemeljena na Linuxu koju podržava Raspberry Pi.
 
-![Raspberi](images/Image1.png)
+![Raspberi](images/Image1.jpg)
 
 U prvoj proizvodnoj seriji proizvedeno je 10.000 komada B modela i sve su rasprodane u roku od nekoliko sati. Model B je verzija od 35 USD s najviše mogućnosti povezivanja, a to je model za koji je većina entuzijasta zainteresovana. Model A je bez Ethernet-a i sa jednim USB portom, za 25 USD. Dalje, završno edukaciono izdanje Raspberry Pi računara (s kućištem i dodacima) bilo je predviđeno  za leto 2012.
-Danas (2019) aktuelna verzija, Rasperija objavljena pre oko 2 godine, poseduje sledeće hardverske komponente:
+Danas (2019) aktuelna verzija, Raspberija objavljena pre oko 2 godine, poseduje sledeće hardverske komponente:
 * 	Socket: Broadcom BCM2837B0 quad-core A53 (ARMv8) 64-bit @ 1.4GHz
 *	GPU: Broadcom Videocore-IV
 *	RAM: 1GB LPDDR2 SDRAM
